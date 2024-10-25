@@ -1,0 +1,47 @@
+annotated-types @ file:///croot/annotated-types_1709542908624/work
+anthropic==0.37.1
+anyio @ file:///croot/anyio_1729121277521/work
+cachetools==5.5.0
+certifi @ file:///croot/certifi_1725551672989/work/certifi
+charset-normalizer==3.4.0
+distro @ file:///croot/distro_1714488253808/work
+filelock==3.16.1
+fsspec==2024.10.0
+google-ai-generativelanguage==0.6.10
+google-api-core==2.21.0
+google-api-python-client==2.149.0
+google-auth==2.35.0
+google-auth-httplib2==0.2.0
+google-generativeai==0.8.3
+googleapis-common-protos==1.65.0
+grpcio==1.67.0
+grpcio-status==1.67.0
+h11 @ file:///croot/h11_1706652277403/work
+httpcore @ file:///croot/httpcore_1706728464539/work
+httplib2==0.22.0
+httpx @ file:///croot/httpx_1723474802858/work
+huggingface-hub==0.26.1
+idna @ file:///croot/idna_1714398848350/work
+jiter==0.6.1
+ollama==0.3.3
+openai @ file:///croot/openai_1721839123648/work
+packaging==24.1
+proto-plus==1.25.0
+protobuf==5.28.3
+pyaml @ file:///home/linux1/recipes/ci/pyaml_1610972911625/work
+pyasn1==0.6.1
+pyasn1_modules==0.4.1
+pydantic @ file:///croot/pydantic_1725040526370/work
+pydantic_core @ file:///croot/pydantic-core_1724790363792/work
+pyparsing==3.2.0
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+requests==2.32.3
+rsa==4.9
+setuptools==75.1.0
+sniffio @ file:///croot/sniffio_1705431295498/work
+tokenizers==0.20.1
+tqdm @ file:///croot/tqdm_1724853939799/work
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+uritemplate==4.1.1
+urllib3==2.2.3
+wheel==0.44.0

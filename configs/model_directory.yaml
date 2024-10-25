@@ -1,0 +1,37 @@
+model_providers:
+  mistralai/Mixtral-8x22B-instruct-v0.1: Together_AI
+  meta-llama/Llama-3-70b-chat-hf: Together_AI
+  databricks/dbrx-instruct: Together_AI
+  deepseek-ai/deepseek-coder-33b-instruct: Together_AI
+  zero-one-ai/Yi-34B-Chat: Together_AI
+  Qwen/Qwen1.5-72B-Chat: Together_AI
+  Qwen/Qwen2-72B-Instruct: Together_AI
+  gpt-3.5-turbo: Open_AI
+  gpt-4o-mini: Open_AI
+  o1-mini: Open_AI
+  claude-3-opus-20240229: Anthropic
+  claude-3-5-sonnet-20240620: Anthropic
+  gemini-pro: Google
+  gemini-1.5-pro: Google
+  gemini-1.5-pro-latest: Google
+  gemini-1.5-flash-latest: Google
+  gemini-1.0-pro: Google
+  gemma-2: Google
+  "qwen2.5:latest": localhost
+  "llama3.1:8b": localhost
+  "mistral:latest": localhost
+  "gemma2:latest": localhost
+  "meta-llama/Meta-Llama-3-70B-Instruct-Turbo": Together_AI
+  "phi3:latest": localhost
+  'meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo': Together_AI
+  qwen2-math: localhost
+  'hf.co/QuantFactory/Qwen2.5-Math-7B-GGUF:latest': localhost
+  'hf.co/QuantFactory/Qwen2.5-Math-7B-Instruct-GGUF:latest': localhost
+
+
+endpoints:
+  Together_AI: https://api.together.xyz/v1
+  Open_AI: https://api.openai.com/v1
+  Anthropic: None
+  localhost: localhost
+  Google: None
